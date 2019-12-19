@@ -1,0 +1,12 @@
+[submodule "projects/peis-ng-project2"]
+	path = projects/peis-ng-project2
+	url = https://github.com/Namrata-Patel/peis-ng-project2.git
+[submodule "projects/peis-ng-project1"]
+	path = projects/peis-ng-project1
+	url = https://github.com/Namrata-Patel/peis-ng-project1.git
+[submodule "projects/core/login"]
+	path = projects/core/login
+	url = https://github.com/Namrata-Patel/peis-ng-login.git
+[submodule "projects/core/peis-ng-user"]
+	path = projects/core/peis-ng-user
+	url = https://github.com/Namrata-Patel/peis-ng-user.git
