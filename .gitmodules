@@ -1,0 +1,3 @@
+[submodule "dist/cms"]
+	path = dist/cms
+	url = https://github.com/Namrata-Patel/peis-ng-user.git
